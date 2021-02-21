@@ -1,0 +1,23 @@
+{
+    "name": "the-nerdycanuck-_-restful-api-ts",
+    "version": "1.0.0",
+    "description": "Restful API with NodeJS, Express & Typescript",
+    "main": "src/server.ts",
+    "scripts": {
+        "build": "del dist && prettier --write src/ && tsc"
+    },
+    "author": "Craole <iamcraole@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.11.17"
+    },
+    "devDependencies": {
+        "@types/body-parser": "^1.19.0",
+        "@types/dotenv": "^8.2.0",
+        "@types/express": "^4.17.11",
+        "@types/mongoose": "^5.10.3"
+    }
+}

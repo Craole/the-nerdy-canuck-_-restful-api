@@ -1,0 +1,15 @@
+node_modules/**/*
+build/**/*
+dist/**/*
+certs/**/*
+
+
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+package-lock.json
+yarn-lock
