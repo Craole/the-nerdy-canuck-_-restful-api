@@ -1,5 +1,5 @@
 {
-    "name": "the-nerdycanuck-_-restful-api-ts",
+    "name": "the-nerdy-canuck-_-restful-api-ts",
     "version": "1.0.0",
     "description": "Restful API with NodeJS, Express & Typescript",
     "main": "src/server.ts",
